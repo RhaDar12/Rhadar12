@@ -60,13 +60,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rhadar12&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rhadar12/Rhadar12/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rhadar12/Rhadar12/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rhadar12/Rhadar12/output/pacman-contribution-graph.svg">
-</picture>
 
-###
 
 <img src="https://raw.githubusercontent.com/Rhadar12/Rhadar12/output/snake.svg" alt="Snake animation" />
 
