@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 |     💤| <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />           |            | 
 
 **<h4>My List Learning Design</h4>**
-| 💫 : Progress| Language|
+| 💫 : Progress| Application|
 |-----:|---------------|
 |     ✅| <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />           |            | 
 |     ✅| <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />           |            | 
