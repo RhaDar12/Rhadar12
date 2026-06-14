@@ -32,16 +32,17 @@ Here are some ideas to get you started:
 |-----:|---------------|
 |     ✅| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />           | 
 |     ✅|    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />         |
-|    💫|  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />     |
+|     ✅|  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />     |
 |     💫|   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />   |
 |     💫|   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />   |
 |     💤|   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />   |
-|     💤|   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />   |
+|     ✅|   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />   |
 
 **<h4>My List Learning Frameworks</h4>**
 | 💫 : Progress| Language|
 |-----:|---------------|
 |     💤| <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+|     ✅| <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
 **<h4>My List Learning Database</h4>**
 | 💫 : Progress| Language|
@@ -55,6 +56,9 @@ Here are some ideas to get you started:
 |     ✅| <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />           |            | 
 |    💤|  <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />     |
 |     💤|   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />   |
+|     ✅| <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+|     ✅| <img src="https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+|     ✅| <img src="https://img.shields.io/badge/Roblox%20Studio-00B3FF?style=for-the-badge&logo=roblox&logoColor=white" />
 
 ##### Github Trophies🏆
 
